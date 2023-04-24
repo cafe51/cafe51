@@ -14,6 +14,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<div align="center">
+
 | Frontend      |                                                                     | Backend       |                                                                     | Tools |                                                                     | Design      |                                                                     |
 |---------------|---------------------------------------------------------------------|---------------|---------------------------------------------------------------------|--------------------|---------------------------------------------------------------------|-------------|---------------------------------------------------------------------|
 | HTML          | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> | Node.js       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> | Git          | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> | Figma       | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> |
@@ -25,7 +27,7 @@
 | Tailwind CSS | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> | | | Next.js | <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> | | |
 | React Native | <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> | | | Bash | <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> | | |
 
-
+</div>
 
 <div align="center">
   <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafe51&theme=tokyonight&layout=compact&hide_progress=true" alt="Top Langs" />     <img src="https://github-readme-stats.vercel.app/api?username=cafe51&show_icons=true&count_private=true&theme=tokyonight&hide=issues,contribs" alt="cafe51" /></p>
