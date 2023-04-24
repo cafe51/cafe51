@@ -20,9 +20,7 @@
   <p align="center" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafe51&theme=tokyonight&layout=compact&hide_progress=true" alt="Top Langs" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=cafe51&show_icons=true&count_private=true&theme=tokyonight&hide=issues,contribs" alt="cafe51" /></p>
 </div>
 
-<p align="center>
--
-</p>
+<p align="center">-</p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cafe51&theme=tokyonight" alt="cafe51" /></p>
 
