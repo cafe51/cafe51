@@ -3,9 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cafe51&label=Profile%20views&color=0e75b6&style=flat" alt="cafe51" /> </p>
 
+- 🎓 Sou desenvolvedor fullstack node.js e apaixonado por desenvolvimento de software e tecnologias emergentes. Estou sempre em busca de aprender e evoluir minhas habilidades, a fim de entregar soluções eficientes e escaláveis.
+
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **cafecafe51@hotmail.com**
+
+- 👨‍💻 Alguns dos meus projetos estão disponíveis no meu GitHub. Sinta-se à vontade para dar uma olhada e entrar em contato se você tiver alguma dúvida ou quiser colaborar em um projeto!
+
+- 💼 Estou em busca de novas oportunidades e desafios no mercado. Se você acha que sou a pessoa certa para sua equipe ou projeto, entre em contato comigo!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
