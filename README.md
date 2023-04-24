@@ -20,6 +20,6 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cafe51&show_icons=true&count_private=true&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cafe51&" alt="cafe51" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cafe51&theme=tokyonight" alt="cafe51" /></p>
 
 <img src='https://github.com/cafe51/cafe51/blob/output/github-contribution-grid-snake.svg'>
