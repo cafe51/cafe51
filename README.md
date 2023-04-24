@@ -23,6 +23,8 @@
     />
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cafe51)](https://github.com/cafe51/github-readme-stats)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cafe51&count_private=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cafe51&" alt="cafe51" /></p>
 
