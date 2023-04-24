@@ -17,7 +17,7 @@
 
 
 <div align="center">
-  <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafe51&theme=tokyonight&layout=compact&hide_progress=true" alt="Top Langs" />  <img src="https://github-readme-stats.vercel.app/api?username=cafe51&show_icons=true&count_private=true&theme=tokyonight&hide=issues,contribs" alt="cafe51" /></p>
+  <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafe51&theme=tokyonight&layout=compact&hide_progress=true" alt="Top Langs" />     <img src="https://github-readme-stats.vercel.app/api?username=cafe51&show_icons=true&count_private=true&theme=tokyonight&hide=issues,contribs" alt="cafe51" /></p>
 </div>
 
 <p align="center">-</p>
